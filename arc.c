@@ -18,6 +18,7 @@
 
 
 int main(int argc, char* argv[]) {
+
     // seeding the random number generator
     time_t seconds = time(NULL);
     srand((unsigned) seconds);
@@ -54,7 +55,7 @@ int main(int argc, char* argv[]) {
     TTF_Init();
     int scoreFontSize = 20;
     TTF_Font* scoreFont = TTF_OpenFont(fontPath, scoreFontSize);
-    SDL_Color scoreColor = {0, 0, 0}; // rgb(0, 0, 0)
+    SDL_Color scoreColor = {0, 0, 0};
 
     // initializing renderer
     initializeSprite(renderer);
@@ -278,4 +279,5 @@ int main(int argc, char* argv[]) {
     SDL_Quit();
 
     return 0;
+
 }
