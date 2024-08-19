@@ -42,6 +42,9 @@ To compile the application, use `make`:
 make
 ```
 
+> [!NOTE]
+> If `make` is not installed on your device, install it first for the command to work.
+
 To run the game, execute the `arc.exe` file:
 ```
 ./arc
