@@ -31,7 +31,7 @@ Below is a list of all the files and directories that the project contains:
   - `sprite.h` - Structure definition for the main sprite.
 - `/assests` - Contains visual game assets such as graphics, backgrounds and fonts.
 
-## Setting Up the Project for Local Develoment
+## Setting Up the Project for Local Development
 Clone this repository:
 ```
 git clone https://github.com/tangerineArc/FlappyVibes.git
