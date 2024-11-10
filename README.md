@@ -29,7 +29,7 @@ Below is a list of all the files and directories that the project contains:
   - `paths.h` - Constant declaration for asset paths.
   - `pipe.h` - Structure definiton for in-game obstacles (pipes).
   - `sprite.h` - Structure definition for the main sprite.
-- `/assests` - Contains visual game assets such as graphics, backgrounds and fonts.
+- `/assets` - Contains visual game assets such as graphics, backgrounds and fonts.
 
 ## Setting Up the Project for Local Development
 Clone this repository:
