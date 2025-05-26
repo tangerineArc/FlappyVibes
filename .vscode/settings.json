@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.ejs": "html",
-        "sdl_timer.h": "c",
-        "ratio": "c"
-    }
-}
